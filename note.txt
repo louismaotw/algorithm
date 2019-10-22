@@ -1,0 +1,8 @@
+lcs: 最長公共子序列longest common sequence.
+hanoi: 河內塔
+stone: philosopher's stone.
+alpha_code: (from SPOJ)
+stock_picker: 股價最佳買賣點
+equal_divide: 將1~N個連續數字，分成兩組，這兩組的和相同。求有幾組。
+ch11(MinCoinChange): 最少硬幣找零問題。
+packer: 背包問題，物品可不用裝滿，求最高價值的填裝方式。
